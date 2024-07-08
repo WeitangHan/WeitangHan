@@ -8,7 +8,7 @@
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
+<img src="[https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&random=false&width=435&lines=Welcome+to+My-Code-Notes+blog-web;I+am+a+java+development+engineer;Thank+you+for+subscription)" />
 </p>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
