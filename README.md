@@ -8,9 +8,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 16.3 kB Used in GitHub's Storage 
- > 
-> 🏆 29 Contributions in the Year 2024
+> 📦 16.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -79,7 +77,7 @@ Python                   1 repo              ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/WeitangHan/WeitangHan/main/assets/bar_graph.png)
 
 
- Last Updated on 23/11/2024 18:43:38 UTC
+ Last Updated on 24/11/2024 18:43:43 UTC
 <!--END_SECTION:waka-->
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
